@@ -23,7 +23,7 @@
 
 ------------------------------
 
-## 快速开始
+## 快速开始halohub docker
 
 ```
 docker run -d --name halo -p 8090:8090 -v ~/.halo2:/root/.halo2 halohub/halo:2.14
